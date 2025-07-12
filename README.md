@@ -1,4 +1,4 @@
-# BountyBoard - Comic-Style Bounty Platform
+# BountyBoard - Bounty Platform
 
 A beautiful, modern bounty board platform built with Next.js, TypeScript, and PostgreSQL. Features a comic-style design with smooth animations and a fully functional bounty creation system.
 
